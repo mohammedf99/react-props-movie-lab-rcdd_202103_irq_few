@@ -1,4 +1,4 @@
-# React Props Movie Lab
+.# React Props Movie Lab
 
 ## Objectives
 
